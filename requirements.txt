@@ -1,0 +1,12 @@
+flask==3.0.2
+flask-wtf==1.2.1
+werkzeug==3.0.1
+openai==1.12.0
+python-dotenv==1.0.1
+scenedetect==0.6.2
+ffmpeg-python==0.2.0
+pillow==10.2.0
+requests==2.31.0
+numpy==1.26.4
+opencv-python==4.9.0.80
+tqdm==4.66.2

@@ -195,8 +195,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Google for Custom Search API
 - FFmpeg for video processing
 - PySceneDetect for scene detection
-
-## 📧 Contact
-
-Your Name - your.email@example.com
-Project Link: [https://github.com/yourusername/SceneSense-contextual-video-segmentation](https://github.com/yourusername/SceneSense-contextual-video-segmentation)
